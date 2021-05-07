@@ -1,0 +1,12 @@
+C:\Users\35987\source\repos\ConcatenateData\ProjectsCreation\bin\Debug\netcoreapp3.1\ProjectsCreation.exe
+C:\Users\35987\source\repos\ConcatenateData\ProjectsCreation\bin\Debug\netcoreapp3.1\ProjectsCreation.deps.json
+C:\Users\35987\source\repos\ConcatenateData\ProjectsCreation\bin\Debug\netcoreapp3.1\ProjectsCreation.runtimeconfig.json
+C:\Users\35987\source\repos\ConcatenateData\ProjectsCreation\bin\Debug\netcoreapp3.1\ProjectsCreation.runtimeconfig.dev.json
+C:\Users\35987\source\repos\ConcatenateData\ProjectsCreation\bin\Debug\netcoreapp3.1\ProjectsCreation.dll
+C:\Users\35987\source\repos\ConcatenateData\ProjectsCreation\bin\Debug\netcoreapp3.1\ProjectsCreation.pdb
+C:\Users\35987\source\repos\ConcatenateData\ProjectsCreation\obj\Debug\netcoreapp3.1\ProjectsCreation.AssemblyInfoInputs.cache
+C:\Users\35987\source\repos\ConcatenateData\ProjectsCreation\obj\Debug\netcoreapp3.1\ProjectsCreation.AssemblyInfo.cs
+C:\Users\35987\source\repos\ConcatenateData\ProjectsCreation\obj\Debug\netcoreapp3.1\ProjectsCreation.csproj.CoreCompileInputs.cache
+C:\Users\35987\source\repos\ConcatenateData\ProjectsCreation\obj\Debug\netcoreapp3.1\ProjectsCreation.dll
+C:\Users\35987\source\repos\ConcatenateData\ProjectsCreation\obj\Debug\netcoreapp3.1\ProjectsCreation.pdb
+C:\Users\35987\source\repos\ConcatenateData\ProjectsCreation\obj\Debug\netcoreapp3.1\ProjectsCreation.genruntimeconfig.cache
