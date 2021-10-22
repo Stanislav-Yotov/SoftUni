@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.31729.503
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "01. Bombs", "01. Bombs\01. Bombs.csproj", "{B8813D9E-7714-41A5-8F47-5A94F234CB48}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "02. Snake", "02. Snake\02. Snake.csproj", "{E7074765-D863-411A-BF5F-5B7F548005A1}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{B8813D9E-7714-41A5-8F47-5A94F234CB48}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B8813D9E-7714-41A5-8F47-5A94F234CB48}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B8813D9E-7714-41A5-8F47-5A94F234CB48}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B8813D9E-7714-41A5-8F47-5A94F234CB48}.Release|Any CPU.Build.0 = Release|Any CPU
+		{E7074765-D863-411A-BF5F-5B7F548005A1}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{E7074765-D863-411A-BF5F-5B7F548005A1}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{E7074765-D863-411A-BF5F-5B7F548005A1}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{E7074765-D863-411A-BF5F-5B7F548005A1}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {5D5453CC-BC3B-42D2-9EC0-00A2BFF26D42}
+	EndGlobalSection
+EndGlobal
