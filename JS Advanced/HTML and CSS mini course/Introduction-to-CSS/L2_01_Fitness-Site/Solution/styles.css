@@ -1,0 +1,78 @@
+body{
+    background: #F0F1F5;
+    font-family: "Helvetica", sans-serif;
+    padding: 0rem 15rem;
+}
+
+nav{
+    text-align: right;
+}
+
+nav ul li{
+    display: inline-block;
+    padding: 0 8px;
+}
+
+nav ul li a{
+    text-decoration: none;
+    color: #F9690E;
+    padding: 4px;
+}
+
+header > p{
+    float: left;
+    color:#F9690E;
+    margin: 0;
+    font-family: "Helvetica", sans-serif;
+    padding: 4px;
+}
+
+main #ego{
+    display: block;
+    background-size: cover;
+    background-position: center;
+    padding: 11rem 11rem;
+    background-image: url(../Requirements-and-Resources/Images/picture.jpg);
+}
+
+main #ego h1{
+    font-family: "Helvetica", sans-serif;
+    color: white;
+}
+
+main #ego span{
+    color: #F9690E;
+    font-family: "Helvetica", sans-serif;
+}
+
+main #ego button{
+    background: #F9690E;
+    border: none;
+    color: white;
+    font-size: 22px;
+    font-weight: bold;
+    padding: 15px;
+}
+
+main #articles article{
+    display: inline-block;
+    background: #F9690E;
+    color: white;
+    font-family: "Helvetica", sans-serif;
+    width: 29%;
+    padding: 20px;
+}
+
+main #articles article h3{
+    text-align: center;
+}
+
+footer article{
+    width: 48%;
+    display: inline-block;
+}
+
+footer #two{
+    text-align: right;
+    padding: 18px;
+}
