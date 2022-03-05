@@ -7,9 +7,6 @@ async function getInfo() {
     try {
         timetable.replaceChildren();
         let response = await fetch(url);
-        if (response.ok === false) {
-            throw new Error('Error');
-        }
         let data = await response.json();
       
         stopName.textContent = data.name;
